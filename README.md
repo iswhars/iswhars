@@ -1,8 +1,10 @@
 ![Header_image](https://raw.githubusercontent.com/iswhars/iswhars/master/Assets/GitHub_Header.jpg)
 
-<p align="center">
+<p align = "center">
   I am a coder, designer, and tech enthusiast.
 </p>
+
+<br />
 
 ## Connect With Me
 
