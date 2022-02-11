@@ -7,4 +7,5 @@
 ## Connect With Me
 
 [![Linkedin_Badge](https://img.shields.io/badge/HyunLee-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hyunjoon-lee/)
+[![Behance](https://img.shields.io/badge/Design Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hyunjoonlee)
 [![Gmail_Badge](https://img.shields.io/badge/hyunleesp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyunleesp@gmail.com)
