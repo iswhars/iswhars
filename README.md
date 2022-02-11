@@ -6,6 +6,6 @@
 
 ## Connect With Me
 
-[![Linkedin_Badge](https://img.shields.io/badge/HyunLee-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hyunjoon-lee/)
+[![LinkedIn](https://img.shields.io/badge/HyunLee-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunjoon-lee/)
 [![Behance](https://img.shields.io/badge/DesignPortfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hyunjoonlee)
-[![Gmail_Badge](https://img.shields.io/badge/hyunleesp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyunleesp@gmail.com)
+[![Gmail](https://img.shields.io/badge/hyun-joon.lee@vanderbilt.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyunleesp@gmail.com)
