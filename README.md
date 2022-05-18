@@ -9,9 +9,9 @@
 
 *What I'm Up To :white_small_square::white_small_square::white_small_square:* 
 
-:chart_with_upwards_trend: Building Front-End Development Skills (fun little app coming soon...)\
+:chart_with_upwards_trend: Building Front-End Development Skills\
 :speech_balloon: Learning Creative Coding with p5.js\
-:japanese_goblin: Internship Hunting!
+:japanese_goblin: Freelance Design Work
 
 <br>
 
