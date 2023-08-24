@@ -2,7 +2,7 @@
 
 
 <div align = "center">
-  <h4>I am a coder, designer, and tech enthusiast.</h4> <br> :white_medium_square:
+  <h4>I am a designer/programmer.</h4> <br> :white_medium_square:
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 
 :chart_with_upwards_trend: Building Front-End Development Skills\
 :speech_balloon: Learning Creative Coding with p5.js\
-:japanese_goblin: Freelance Design Work
+:japanese_goblin: Freelance Design Work, finishing up design internship @ Apple
 
 <br>
 
