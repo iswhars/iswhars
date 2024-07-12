@@ -5,7 +5,7 @@
   <h4>I am a creative.</h4>
 </div>
 
-*what im up to :white_small_square::white_small_square::white_small_square:* 
+### What Im Up To :white_small_square::white_small_square::white_small_square:* 
 
 :chart_with_upwards_trend: Building Front-End Development Skills\
 :speech_balloon: Learning Creative Coding with p5.js\
