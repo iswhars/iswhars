@@ -5,7 +5,7 @@
   <h4>I am a creative.</h4>
 </div>
 
-### What Im Up To 👨🏻‍💻
+### Working On 👨🏻‍💻
 
 :chart_with_upwards_trend: Building Front-End Development Skills\
 :speech_balloon: Learning Creative Coding with p5.js\
