@@ -2,7 +2,7 @@
 
 
 <div align = "center">
-  <h4>I am a creative.</h4> <br> :white_medium_square:
+  <h4>I am a creative.</h4>
 </div>
 
 *what im up to :white_small_square::white_small_square::white_small_square:* 
@@ -10,10 +10,6 @@
 :chart_with_upwards_trend: Building Front-End Development Skills\
 :speech_balloon: Learning Creative Coding with p5.js\
 :japanese_goblin: Freelance Design Work, finishing up design internship @ Apple
-
-<div align = "center">
-:white_medium_square:
-</div>
 
 ### Connect With Me :postbox:
 
