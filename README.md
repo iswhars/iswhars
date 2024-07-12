@@ -5,15 +5,11 @@
   <h4>I am a creative.</h4> <br> :white_medium_square:
 </div>
 
-<br>
-
 *what im up to :white_small_square::white_small_square::white_small_square:* 
 
 :chart_with_upwards_trend: Building Front-End Development Skills\
 :speech_balloon: Learning Creative Coding with p5.js\
 :japanese_goblin: Freelance Design Work, finishing up design internship @ Apple
-
-<br>
 
 <div align = "center">
 :white_medium_square:
