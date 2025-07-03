@@ -7,9 +7,9 @@
 
 ### Working On 👨🏻‍💻
 
-:chart_with_upwards_trend: Building Front-End Development Skills\
+:chart_with_upwards_trend: Designing interactions.
 :speech_balloon: Learning Creative Coding with p5.js\
-:japanese_goblin: Freelance Design Work, finishing up design internship @ Apple
+:japanese_goblin: Pratt IXD '26
 
 ### Connect With Me :postbox:
 
