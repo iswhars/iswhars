@@ -7,7 +7,7 @@
 
 ### Working On 👨🏻‍💻
 
-:chart_with_upwards_trend: Designing interactions.
+:chart_with_upwards_trend: Designing interactions.\
 :speech_balloon: Learning Creative Coding with p5.js\
 :japanese_goblin: Pratt IXD '26
 
