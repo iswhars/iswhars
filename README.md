@@ -14,7 +14,6 @@
 ### Connect With Me :postbox:
 
 [![LinkedIn](https://img.shields.io/badge/HyunLee-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunjoon-lee/)
-[![Behance](https://img.shields.io/badge/DesignPortfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hyunjoonlee.com/)
 [![Gmail](https://img.shields.io/badge/hyunjoonleedesign@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyunjoonleedesign@gmail.com)
 
 <sub><sup>*psssst here's a little joke before you go..*</sub></sup>
